@@ -19,7 +19,7 @@
 
 ### 📫 Get in Touch  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tanuj-saxena-970271252/)  
-- 📧 Email: [tanuj437@gmail.com](mailto:tanuj437@gmail.com)  
+- 📧 Email: [tanuj.saxena.rks@gmail.com](mailto:tanuj.saxena.rks@gmail.com)  
 - 💻 Check out my projects and contributions on **GitHub**!  
 
 
