@@ -188,19 +188,7 @@ Cloud Technologies ██████████░░░░░░░░░░�
 
 ---
 
-## 🎮 Fun Facts About Me
 
-<div align="center">
-
-🎯 I can optimize your ML model faster than you can say "gradient descent"  
-🤖 I dream in Python and think in algorithms  
-📊 I find patterns in data like Neo sees the Matrix  
-☕ Powered by coffee and curiosity  
-🚀 Always ready for the next AI breakthrough  
-
-</div>
-
----
 
 ## 📫 Let's Connect & Collaborate!
 
